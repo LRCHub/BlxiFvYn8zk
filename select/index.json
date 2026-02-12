@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "伝えたい事がこんなあるのに",
+  "base_artist": "Infinity 16",
+  "createdAt": "2026-02-12T15:32:29.885031Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "伝えたい事がこんなあるのに",
+      "artist": "INFINITY 16 welcomez 若旦那 from 湘南乃風 & JAY'ED",
+      "has_synced": false,
+      "path": "select/pl_01_伝えたい事がこんなあるのに_INFINITY_16_welcomez_若旦那_from_湘南乃風_&_JAY'ED.txt"
+    }
+  ]
+}
